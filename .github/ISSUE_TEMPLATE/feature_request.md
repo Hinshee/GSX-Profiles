@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this profile
-title: "[Request]"
+title: "[ICAO] Request Title"
 labels: enhancement
 assignees: Hinshee
 
