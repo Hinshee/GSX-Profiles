@@ -36,37 +36,6 @@ def customOffset_Gate(aircraftData):
 		return Distance()
 
 @AlternativeStopPositions
-def customOffset(aircraftData):
-	table = {
-		0: 0,
-		757: 0,
-		767: 0,
-		777: 4.7,
-		787: 4.7,
-		319: 7.8,
-		320: 0,
-		321: 0,
-		330: 1.3,
-		350: 4.7,
-		380: 4.7,
-	}
-
-	table787 = {
-     	0: 0, #8.05
-		8: 0,
-		9: 0, #12.05
-		10: 0,
-	}
-
-	if aircraftData.idMajor == 787:
-		return Distance.fromMeters( table787.get(aircraftData.idMinor)  - 0.25 )
-	else:
-		try:
-			return Distance.fromMeters( table.get(aircraftData.idMajor)  - 0.25 )
-		except:
-			return Distance()
-
-@AlternativeStopPositions
 def customOffset_Gate16(aircraftData):
 	table = {
 		0: 0,
@@ -124,14 +93,32 @@ def customOffset_Stand12(aircraftData):
 def customOffset_Gate4A(aircraftData):
 	table = {
 		0: 0,
-		777: 4,
-		787: 4,
+		757: 5,
+		767: 5,
+		777: 13,
+		787: 10,
+		319: 7.8,
+		320: 3,
+		321: 3,
+		330: 1.3,
+		350: 4.7,
+		380: 4.7,
 	}
 
-	try:
-		return Distance.fromMeters( table.get(aircraftData.idMajor)  - 0.25 )
-	except:
-		return Distance()
+	table787 = {
+     	0: 10,
+		8: 8,
+		9: 9,
+		10: 13,
+	}
+
+	if aircraftData.idMajor == 787:
+		return Distance.fromMeters( table787.get(aircraftData.idMinor)  - 0.25 )
+	else:
+		try:
+			return Distance.fromMeters( table.get(aircraftData.idMajor)  - 0.25 )
+		except:
+			return Distance()
 
 @AlternativeStopPositions
 def customOffset_Stand102(aircraftData):
@@ -187,13 +174,13 @@ parkings = {
 			11 : (MainApronNames, customOffset_Stand),
 			12 : (MainApronNames, customOffset_Stand12),
 			14 : (MainApronNames, customOffset_Stand),
-			15 : (SoutheastPierNames, ),
-			"15A" : (SoutheastPierNames, ),
-			"15B" : (SoutheastPierNames, ),
+			15 : (SoutheastPierNames, customOffset_Gate),
+			"15A" : (SoutheastPierNames, customOffset_Gate),
+			"15B" : (SoutheastPierNames, customOffset_Gate),
 			16 : (SoutheastPierNames, customOffset_Gate16),
-			"16A" : (SoutheastPierNames, ),
-			"16B" : (SoutheastPierNames, ),
-			17 : (SoutheastPierNames, ),
+			"16A" : (SoutheastPierNames, customOffset_Gate),
+			"16B" : (SoutheastPierNames, customOffset_Gate),
+			17 : (SoutheastPierNames, customOffset_Gate),
 			18 : (SoutheastPierNames, customOffset_Gate18),
 			19 : (SoutheastPierNames, customOffset_Gate),
 			20 : (SoutheastPierNames, customOffset_Gate),
