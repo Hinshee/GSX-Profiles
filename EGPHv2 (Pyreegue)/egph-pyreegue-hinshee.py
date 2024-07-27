@@ -57,19 +57,24 @@ def customOffset_Gate16(aircraftData):
 def customOffset_Gate18(aircraftData):
 	table = {
 		0: 0,
-		170: 0,
-		175: 0,
-		737: 8,
-		320: 8,
-		319: 8,
-		321: 11.3,
-		900: 11.3,
-		767: 13.1,
-		787: 13.1,
-		777: 14.15,
+		787: 0,
+		777: 9,
 	}
 
-	return Distance.fromMeters( table.get(aircraftData.idMajor, 0) - 0.25 )
+	table787 = {
+     	0: 2.8,
+		8: 2.8,
+		9: 2.8,
+		10: 6.1,
+	}
+
+	if aircraftData.idMajor == 787:
+		return Distance.fromMeters( table787.get(aircraftData.idMinor)  - 0.25 )
+	else:
+		try:
+			return Distance.fromMeters( table.get(aircraftData.idMajor)  - 0.25 )
+		except:
+			return Distance()
 
 @AlternativeStopPositions
 def customOffset_Stand12(aircraftData):
@@ -93,14 +98,14 @@ def customOffset_Stand12(aircraftData):
 def customOffset_Gate4A(aircraftData):
 	table = {
 		0: 0,
-		757: 5,
-		767: 5,
+		757: 7,
+		767: 7,
 		777: 13,
 		787: 10,
-		319: 7.8,
+		319: 3,
 		320: 3,
 		321: 3,
-		330: 1.3,
+		330: 7,
 		350: 4.7,
 		380: 4.7,
 	}
