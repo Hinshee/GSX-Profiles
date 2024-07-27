@@ -32,3 +32,9 @@ Try the following troubleshooting steps:
 
 > [!WARNING]
 > You must ensure that you do not have conflicting GSX profiles in your GSX\MSFS folder. For example: You **cannot** have two EGPH.ini files in the same folder.
+
+#### Q: Can I contribute?
+
+Of course!
+Nearly all GSX creators work hard to put profiles together and most go without a thank you. But the silent satisfaction keeps me going, and you are more than welcome to help from suggestions, comments and potential commits.
+Anything to make a profile 10% better ;)
