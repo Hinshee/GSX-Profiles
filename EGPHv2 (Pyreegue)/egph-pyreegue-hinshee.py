@@ -153,12 +153,12 @@ def StandNames(name, letter, priority):
   
 MainApronNames = TerminalNames("Main Apron", "", 1)
 SoutheastPierNames = StandNames("Southeast Pier", "", 1)
-SoutheastApronNames = StandNames("Southeast Apron", "", 1)
-TurnhouseApronNames = StandNames("Turnhouse Apron", "", 1)
-NorthApronNames = StandNames("North Apron", "", 2)
-EastApronNames = StandNames("East Apron", "", 2)
-RemoteNames = StandNames("Remote Stands", "", 3)
-GANames = StandNames("GA Apron", "", 4)
+SoutheastApronNames = StandNames("Southeast Apron", "", 2)
+TurnhouseApronNames = StandNames("Turnhouse Apron", "", 2)
+NorthApronNames = StandNames("North Apron", "", 3)
+EastApronNames = StandNames("East Apron", "", 4)
+RemoteNames = StandNames("Remote Stands", "", 5)
+GANames = StandNames("GA Apron", "", 6)
 
 parkings = {
     GATE: {
