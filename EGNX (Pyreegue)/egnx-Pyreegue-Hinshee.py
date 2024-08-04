@@ -21,12 +21,13 @@ CentralApronRemoteNames = RemoteStandName("Central Aprons", "", 1)
 EasternApron = StandName("Eastern Apron", "", 2)
 WesternApron = StandName("Western Apron", "", 2)
 WesternApronRemote = RemoteStandNameNC("Western Apron", "", 2)
-MainAreaNorthNames = StandName("GA Aprons | Maint. North (NC)", "", 3)
-MainAreaSouthNames = StandName("GA Aprons | Maint. South (NC)", "", 3)
+MainAreaNorthNames = StandName("North Maintenance | Maint. (NC)", "", 4)
+MainAreaSouthNames = StandName("South Maintenance | Maint. (NC)", "", 4)
 RVLApronNames = StandName("GA Aprons | RVL Apron (NC)", "", 3)
+RollsRoyceApron = StandName("GA Aprons | Rolls Royce Apron (NC)", "", 3)
 
 parkings = {
-	PARKING : {
+	GATE : {
 		None : ( ),
 		4 : (CentralApronNames, ),
 		5 : (CentralApronNames, ),
@@ -37,8 +38,12 @@ parkings = {
 		10 : (CentralApronNames, ),
 		11 : (CentralApronNames, ),
 		12 : (CentralApronNames, ),
+		"12L" : (CentralApronNames, ),
+		"12R" : (CentralApronNames, ),
 		13 : (CentralApronNames, ),
 		14 : (CentralApronNames, ),
+		"14L" : (CentralApronNames, ),
+		"14R" : (CentralApronNames, ),
 		15 : (CentralApronNames, ),
 		16 : (CentralApronNames, ),
 		17 : (CentralApronNames, ),
@@ -57,36 +62,11 @@ parkings = {
 		43 : (CentralWestApronNames, ),
 		44 : (CentralWestApronNames, ),
 		45 : (CentralWestApronNames, ),
-		"70R" : (EasternApron, ),
-		70 : (EasternApron, ),
-		"70L" : (EasternApron, ),
-		71 : (EasternApron, ),
-		72 : (EasternApron, ),
-		73 : (EasternApron, ),
-		"73L" : (EasternApron, ),
-		74 : (EasternApron, ),
-		"74L" : (EasternApron, ),
-		75 : (EasternApron, ),
-		"75R" : (EasternApron, ),
-		"76R" : (EasternApron, ),
-		76 : (EasternApron, ),
-		"76L" : (EasternApron, ),
-		"77R" : (EasternApron, ),
-		77 : (EasternApron, ),
-		"78R" : (EasternApron, ),
-		78 : (EasternApron, ),
-		"78L" : (EasternApron, ),
-		79 : (EasternApron, ),
-		80 : (EasternApron, ),
-		81 : (EasternApron, ),
-		82 : (EasternApron, ),
-		83 : (EasternApron, ),
-		84 : (EasternApron, ),
-		85 : (EasternApron, ),
-		86 : (EasternApron, ),
 	},
-	0 : {
+	W_PARKING : {
 		None : ( ),
+		1 : (RollsRoyceApron, ),
+		2 : (RVLApronNames, ),
 		98 : (WesternApron, ),
 		99 : (WesternApron, ),
 		100 : (WesternApron, ),
@@ -121,15 +101,45 @@ parkings = {
 		203 : (WesternApronRemote, ),
 		"203R" : (WesternApronRemote, ),
 	},
+	E_PARKING : {
+		None : (MainAreaNorthNames, ),
+		"70R" : (EasternApron, ),
+		70 : (EasternApron, ),
+		"70L" : (EasternApron, ),
+		71 : (EasternApron, ),
+		72 : (EasternApron, ),
+		73 : (EasternApron, ),
+		"73L" : (EasternApron, ),
+		74 : (EasternApron, ),
+		"74L" : (EasternApron, ),
+		75 : (EasternApron, ),
+		"75R" : (EasternApron, ),
+		"76R" : (EasternApron, ),
+		76 : (EasternApron, ),
+		"76L" : (EasternApron, ),
+		"77R" : (EasternApron, ),
+		77 : (EasternApron, ),
+		"78R" : (EasternApron, ),
+		78 : (EasternApron, ),
+		"78L" : (EasternApron, ),
+		79 : (EasternApron, ),
+		80 : (EasternApron, ),
+		81 : (EasternApron, ),
+		82 : (EasternApron, ),
+		83 : (EasternApron, ),
+		84 : (EasternApron, ),
+		85 : (EasternApron, ),
+		86 : (EasternApron, ),
+	},
 	SW_PARKING : {
 		None : (MainAreaNorthNames, ),
+		1 : (MainAreaNorthNames, ),
+		2 : (MainAreaNorthNames, ),
+		3 : (MainAreaNorthNames, ),
 	},
 	S_PARKING : {
 		None : (MainAreaSouthNames, ),
 		1 : (MainAreaSouthNames, ),
 		2 : (MainAreaSouthNames, ),
-	},
-	W_PARKING : {
-		None : (RVLApronNames, ),
 	},
 }
