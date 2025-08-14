@@ -1,0 +1,20 @@
+{
+  "dependencies": [
+    {
+      "name": "fsdreamteam-gsx-pro",
+      "package_version": "2.9.1"
+    }
+  ],
+  "content_type": "LIVERY",
+  "title": "GSX BHX Textures",
+  "manufacturer": "",
+  "creator": "Hinshee, Krake Textures",
+  "package_version": "1.0.0",
+  "minimum_game_version": "1.35.21",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
