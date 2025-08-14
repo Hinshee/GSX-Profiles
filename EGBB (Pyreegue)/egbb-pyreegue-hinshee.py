@@ -1,6 +1,6 @@
 # -- coding: utf-8 --
 
-version = 1
+version = 1.1
 msfs_mode = 1
 icao = "egbb"
 
@@ -46,8 +46,8 @@ def customOffset_Gate42C(aircraftData):
 	}
 
 	table777 = {
-		2: 10.8,
-		3: 13.55,
+		200: 10.8,
+		300: 13.55,
 	}
     
 	table330 = {
@@ -161,7 +161,7 @@ def customOffset_Gate56C(aircraftData):
     }
 	
 	table777 = {
-        3: 8.1,
+        300: 8.1,
     }
     
 	try:
@@ -260,8 +260,8 @@ def customOffset_Gate41C(aircraftData):
 	}
 
 	table777 = {
-		2: 7,
-		3: 9,
+		200: 7,
+		300: 9,
 	}
 
 	table330 = {
