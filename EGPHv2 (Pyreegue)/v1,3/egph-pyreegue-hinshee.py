@@ -2,7 +2,7 @@
 
 msfs_mode = 1
 icao = "egph"
-version = 1.2
+version = 1.3
 
 @AlternativeStopPositions
 def customOffset_Stand(aircraftData):
@@ -145,13 +145,14 @@ def StandNames(name, letter, priority):
 	return CustomizedName( "%s | Stand %s#§" % (name, letter), priority )
   
 MainApronNames = TerminalNames("Main Apron (1-14, 99-106)", "", 1)
-SoutheastPierNames = StandNames("Southeast Pier (15-25)", "", 1)
-SoutheastApronNames = StandNames("Southeast Apron (26-33)", "", 2)
-TurnhouseApronNames = StandNames("Turnhouse Apron (308-317)", "", 2)
-NorthApronNames = StandNames("North Apron (200-208)", "", 3)
-EastApronNames = StandNames("East Apron (210-212)", "", 4)
-RemoteNames = StandNames("Remote Stands", "", 5)
-GANames = StandNames("GA Apron", "", 6)
+SoutheastPierNames = StandNames("Southeast Pier (15-25)", "", 2)
+SoutheastApronNames = StandNames("Southeast Apron (26-33)", "", 3)
+TurnhouseApronNames = StandNames("Turnhouse Apron (308-317)", "", 4)
+MidfieldApronNames = StandNames("Midfield Apron (403-407)", "", 5)
+NorthApronNames = StandNames("North Apron (200-208)", "", 6)
+EastApronNames = StandNames("East Apron (210-212)", "", 7)
+RemoteNames = StandNames("Remote Stands", "", 8)
+GANames = StandNames("GA Apron", "", 9)
 
 parkings = {
     GATE: {
@@ -204,6 +205,11 @@ parkings = {
 			32 : (SoutheastApronNames, customOffset_Stand),
 			33 : (SoutheastApronNames, customOffset_Stand),
 			34 : (SoutheastApronNames, customOffset_Stand),
+            403 : (MidfieldApronNames, customOffset_Stand),
+            404 : (MidfieldApronNames, customOffset_Stand),
+            405 : (MidfieldApronNames, customOffset_Stand),
+            406 : (MidfieldApronNames, customOffset_Stand),
+            407 : (MidfieldApronNames, customOffset_Stand),
     },
 	SE_PARKING: {
 		None: ( ),

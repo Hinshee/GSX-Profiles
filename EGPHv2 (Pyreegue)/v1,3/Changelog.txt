@@ -1,0 +1,5 @@
+- Added: Midfield Stands (403-407)
+- Added: Manual Jetway Trigger for Stands 4 and 3A
+- Added: Automatic Handler Selection
+- Fixed: Stand 3 Walk-in paths
+- Fixed: Stop Positions on Stand 1A and 1B
