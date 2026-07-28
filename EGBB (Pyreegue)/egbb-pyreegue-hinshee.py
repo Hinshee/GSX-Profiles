@@ -1,6 +1,6 @@
 # -- coding: utf-8 --
 
-version = 1.3
+version = 1.4
 msfs_mode = 1
 icao = "egbb"
 
@@ -365,8 +365,8 @@ SPSN = TerminalNames("South Pier (1-16, 20-25)", "", 1)
 SPRSN = RemoteStandNames("South Pier (1-16, 20-25)", "", 1)
 NPSN = TerminalNames("North Pier (40-42, 54-60)", "", 2)
 WRSN = RemoteStandNames("Western Remote Stands (70-77, 80-86)", "", 3)
-EAN = StandNames("Elmdon Apron", "", 4)
-EAN_GA = StandNames("Elmdon Apron", "GA", 4)
+EAN = StandNames("Elmdon Apron (501-506)", "", 4)
+EAN_GA = StandNames("Elmdon Apron (501-506)", "GA", 4)
 
 parkings = {
     GATE: {

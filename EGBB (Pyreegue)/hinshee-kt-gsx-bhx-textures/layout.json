@@ -1,619 +1,3634 @@
 {
   "content": [
     {
-      "path": "SimObjects/GroundVehicles/FSDT_Pushback_M1A/texture.TUI/FSDT_TOW_TUG_BODY_ALBD.PNG.DDS",
-      "size": 4194432,
-      "date": 133626196040000000
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_ADD1_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 133738149397115294
     },
     {
-      "path": "SimObjects/GroundVehicles/FSDT_Pushback_M1A/texture.TUI/FSDT_TOW_TUG_BODY_ALBD.PNG.DDS.json",
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_ADD1_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133626196040000000
+      "date": 133722648100000000
     },
     {
-      "path": "SimObjects/GroundVehicles/FSDT_Pushback_M1A/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
-      "size": 262272,
-      "date": 133626196040000000
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_ADD1_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133738149383827378
     },
     {
-      "path": "SimObjects/GroundVehicles/FSDT_Pushback_M1A/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
-      "size": 20,
-      "date": 133626196040000000
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_ADD1_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133722648100000000
     },
     {
-      "path": "SimObjects/GroundVehicles/FSDT_Pushback_M1A/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_ADD1_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 133738149270528655
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_ADD1_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133722648100000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_MAIN_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 133738149240920896
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_MAIN_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 133722700560000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_MAIN_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133724501280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_MAIN_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 133738149476118249
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_MAIN_comp.png.DDS.FLAGS",
+      "size": 18,
+      "date": 133722707160000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_MAIN_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133724501280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_MAIN_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 133738149470166334
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_MAIN_norm.png.DDS.FLAGS",
+      "size": 18,
+      "date": 133722707160000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_MAIN_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133724501280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_PARTS_ALBD.PNG.DDS",
+      "size": 22369776,
+      "date": 133738149311906402
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_parts_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 133722700560000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_PARTS_ALBD.PNG.DDS.json",
       "size": 119,
-      "date": 133626196040000000
+      "date": 133722694020000000
     },
     {
-      "path": "SimObjects/GroundVehicles/FSDT_Pushback_M1A/texture.TUI/texture.CFG",
-      "size": 336,
-      "date": 133626205000000000
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_PARTS_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 133738149288717547
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_parts_comp.png.DDS.FLAGS",
+      "size": 18,
+      "date": 133722707160000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_PARTS_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133722694020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_PARTS_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 133738149459829675
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_parts_norm.png.DDS.FLAGS",
+      "size": 18,
+      "date": 133722707160000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_PARTS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133722694020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_WH1_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 133738149340351636
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_WH1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133722648100000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_WH1_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 133738149481494006
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_WH1_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133722648100000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_WH1_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133738149446472429
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_WH1_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133722648100000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_WH2_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 133738149272736637
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_WH2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133722648100000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_WH2_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 133738149354478622
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_WH2_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133722648100000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_WH2_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133738149283328954
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TPCCL35_WH2_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133722648100000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TREPEL_DECALS.PNG.DDS",
+      "size": 1398256,
+      "date": 133738149269617418
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/FSDT_TREPEL_DECALS.PNG.DDS.json",
+      "size": 119,
+      "date": 133724457960000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
+      "size": 349712,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134100258500000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
+      "size": 119,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CCL35S/texture.TUI/texture.CFG",
+      "size": 619,
+      "date": 133916188100000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B1_ALBD.PNG.DDS",
+      "size": 22369776,
+      "date": 133876747370532792
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_Trepel70_B1_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 133845477060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B1_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133845477060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B1_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 133876748673731523
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B1_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133845436860000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B1_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 133876752787519844
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B1_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133845436860000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B2_ALBD.PNG.DDS",
+      "size": 22369776,
+      "date": 133876748059345622
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_Trepel70_B2_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 133845477060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B2_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133845477060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B2_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 133876753579383311
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B2_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133845436860000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B2_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 133876753549259231
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B2_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133845436860000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B3_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 133876748096699018
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_Trepel70_B3_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 133845477060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B3_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133845436860000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B3_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 133876753008096576
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B3_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133845436860000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B3_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133876752880235682
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B3_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133845436860000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B4_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 133876748119980837
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_Trepel70_B4_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 133845477060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B4_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133845436860000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B4_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 133876748080195186
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B4_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133845436860000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B4_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133876753362344798
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B4_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133845436860000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B5_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 133876751698511281
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_Trepel70_B5_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 133845477060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B5_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133845436860000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B5_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133876751794072378
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B5_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133845436860000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B5_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 133876753557740917
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/FSDT_TREPEL70_B5_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133845436860000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/GSX_CHAMP70_DECAL.PNG.DDS",
+      "size": 174920,
+      "date": 133876748074373607
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/GSX_CHAMP70_DECAL.PNG.DDS.json",
+      "size": 102,
+      "date": 133870441600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/GSX_FMC15_DECALS.PNG.DDS",
+      "size": 5592560,
+      "date": 133876748295888537
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/GSX_FMC15_decals.png.DDS.FLAGS",
+      "size": 18,
+      "date": 132939088100000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/GSX_FMC15_DECALS.PNG.DDS.json",
+      "size": 119,
+      "date": 132939363520000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
+      "size": 349712,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134100258500000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
+      "size": 119,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70/texture.TUI/texture.CFG",
+      "size": 619,
+      "date": 133916190160000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70_S/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
+      "size": 349712,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70_S/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134100258500000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70_S/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
+      "size": 119,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70_S/texture.TUI/texture.CFG",
+      "size": 672,
+      "date": 133915983040000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70_W/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
+      "size": 349712,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70_W/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134100258500000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70_W/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
+      "size": 119,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Cargo_Loader_CHAMP70_W/texture.TUI/texture.CFG",
+      "size": 672,
+      "date": 133915985580000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TMX_150/texture.TUI/FSDT_TMX_INSIDE_ALBEDO.PNG.DDS",
+      "size": 2796344,
+      "date": 133053799158325435
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TMX_150/texture.TUI/FSDT_TMX_INSIDE_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 133019511920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TMX_150/texture.TUI/FSDT_TMX_INSIDE_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 133053799158598236
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TMX_150/texture.TUI/FSDT_TMX_INSIDE_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133019511940000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TMX_150/texture.TUI/FSDT_TMX_INSIDE_NORMAL.PNG.DDS",
+      "size": 5592560,
+      "date": 133053799159009916
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TMX_150/texture.TUI/FSDT_TMX_INSIDE_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 133019511940000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TMX_150/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
+      "size": 349712,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TMX_150/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134100258500000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TMX_150/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
+      "size": 119,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TMX_150/texture.TUI/GSX_PUSHBACK_TMX_ALBEDO.PNG.DDS",
+      "size": 11184952,
+      "date": 133053799159962236
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TMX_150/texture.TUI/GSX_PUSHBACK_TMX_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 133020208860000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TMX_150/texture.TUI/GSX_PUSHBACK_TMX_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 133053799160993924
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TMX_150/texture.TUI/GSX_PUSHBACK_TMX_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133020208860000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TMX_150/texture.TUI/GSX_PUSHBACK_TMX_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 133053799162402564
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TMX_150/texture.TUI/GSX_PUSHBACK_TMX_NORMAL.PNG.DDS.json",
+      "size": 160,
+      "date": 133020208880000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TMX_150/texture.TUI/texture.CFG",
+      "size": 441,
+      "date": 133916075200000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT10_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 133386629364064820
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT10_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT10_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133386629365642093
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT10_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT10_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 133386629370825297
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT10_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT11_ALBD.PNG.DDS",
+      "size": 43832,
+      "date": 133386629366772977
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT11_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT11_COMP.PNG.DDS",
+      "size": 43832,
+      "date": 133386629367789783
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT11_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT11_NORM.PNG.DDS",
+      "size": 87536,
+      "date": 133386629368935542
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT11_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT12_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 133386629385137827
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT12_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133378951280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT12_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 133386629375932370
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT12_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133378951280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT12_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133386629392805994
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT12_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133378951280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT13_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 133386629371980978
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT13_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT13_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 133386629373123802
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT13_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT13_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 133386629377127722
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT13_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT15_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 133386629380465507
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT15_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133378951280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT15_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133386629378545990
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT15_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133378951280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT15_EMIS.PNG.DDS",
+      "size": 699192,
+      "date": 133390252513083534
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT15_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 133386559000000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT15_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 133386629386923435
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT15_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133378951280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT1_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 133386629400349611
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133379065380000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT1_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 133386629409234652
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT1_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133379065380000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT1_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 133386629457009386
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT1_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133379065380000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT2_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 133386629418013857
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133379065380000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT2_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 133386629465436423
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT2_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133379065380000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT2_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 133386629523829821
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT2_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133379065380000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT3_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 133386629419834172
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT3_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133378951280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT3_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133386629422264580
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT3_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133378951280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT3_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 133386629425037219
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT3_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133378951280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT4_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 133386629427011292
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT4_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT4_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133386629428910979
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT4_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT4_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 133386629431336796
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT4_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT5_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 133386629439912256
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT5_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133378951280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT5_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133386629442188889
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT5_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133378951280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT5_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 133386629471988576
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT5_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT6_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 133386629467296420
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT6_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT6_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133386629469369696
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT6_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT6_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 133386629491005894
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT6_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT7_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 133386629474934820
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT7_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133378951280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT7_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133386629488729251
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT7_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133378951280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT7_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 133386629497118199
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT7_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133378951280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT8_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 133386629493115478
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT8_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133377008720000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT8_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133386629495010195
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT8_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133377008720000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT8_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 133386629503268599
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT8_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133378951280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT9_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 133386629499007960
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT9_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT9_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133386629500833240
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT9_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133378951280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT9_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 133386629505664278
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/FSDT_TPX_200_TXT9_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133376972920000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
+      "size": 349712,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134100258500000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
+      "size": 119,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/LOGO_TLD.PNG.DDS",
+      "size": 1398256,
+      "date": 133386629508052064
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/LOGO_TLD.PNG.DDS.json",
+      "size": 119,
+      "date": 133384661560000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_200/texture.TUI/texture.CFG",
+      "size": 352,
+      "date": 133916076280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_SCREW_BUTTON_TPX_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 134107204314646396
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_SCREW_BUTTON_TPX_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 134098550540000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_SCREW_BUTTON_TPX_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 134107204266259506
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_SCREW_BUTTON_TPX_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134098550540000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_SCREW_BUTTON_TPX_EMIS.PNG.DDS",
+      "size": 699192,
+      "date": 134107204319654452
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_SCREW_BUTTON_TPX_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 134098550540000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_SCREW_BUTTON_TPX_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 134107204289581363
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_SCREW_BUTTON_TPX_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134098550540000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT1_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 134107204224027034
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT1_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134098496940000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT1_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 134107204285979911
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT1_comp.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT1_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134098614400000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT1_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 134107204310653234
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT1_norm.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT1_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134098614400000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT2_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 134107204276529931
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT2_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134098496940000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT2_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 134107204242970103
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT2_comp.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT2_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134098614400000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT2_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 134107204258794483
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT2_norm.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT2_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134098614400000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_CATA_ALBD.PNG.DDS",
+      "size": 11064,
+      "date": 134107204229610039
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_CATA_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_CATA_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 134107204225798726
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_CATA_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_CATA_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 134107204226387207
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_CATA_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_CATA_O_ALBD.PNG.DDS",
+      "size": 11064,
+      "date": 134107204297437421
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_CATA_O_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_CATA_R_ALBD.PNG.DDS",
+      "size": 11064,
+      "date": 134107204229980302
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_CATA_R_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_CHROME_ALBD.PNG.DDS",
+      "size": 43832,
+      "date": 134107204226821671
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_CHROME_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134098614400000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_CHROME_COMP.PNG.DDS",
+      "size": 43832,
+      "date": 134107204320350054
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_CHROME_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134099336560000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_CHROME_NORM.PNG.DDS",
+      "size": 87536,
+      "date": 134107204294348813
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_CHROME_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_DEC1.PNG.DDS",
+      "size": 699192,
+      "date": 134107204265452441
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_DEC1.PNG.DDS.json",
+      "size": 102,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_GLS_ALBD.PNG.DDS",
+      "size": 349680,
+      "date": 134107204278428733
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_GLS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_GLS_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 134107204315899375
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_GLS_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_GLS_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 134107204217524728
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_GLS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_MET_GRG_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 134107204264686170
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_MET_GRG_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_MET_GRG_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 134107204321082799
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_MET_GRG_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_MET_GRG_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 134107204288211492
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_MET_GRG_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_MET_ORO_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 134107204294828833
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_MET_ORO_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134097965040000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_MET_ORO_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 134107204313513284
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_MET_ORO_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134097965040000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_MET_ORO_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 134107204315394734
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_MET_ORO_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134097965040000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_PLST_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 134107204235027328
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_PLST_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_PLST_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 134107204264214828
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_PLST_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_PLST_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 134107204269294138
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_PLST_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_W1_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 134107204268293712
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_W1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_W1_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 134107204296694971
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_W1_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_W1_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 134107204233727507
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_W1_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_W2_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 134107204228717704
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_W2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_W2_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 134107204263338141
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_W2_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_W2_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 134107204293095596
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/FSDT_TPX_500_TXT_W2_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134097754600000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
+      "size": 349712,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134100258500000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
+      "size": 119,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_TPX_500_MTS/texture.TUI/texture.CFG",
+      "size": 410,
+      "date": 134097806880000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_GSX_DECALS_2K.PNG.DDS",
       "size": 2796344,
-      "date": 133626196030000000
+      "date": 133053799178044844
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_GSX_decals_2k.png.DDS.FLAGS",
       "size": 18,
-      "date": 133626196030000000
+      "date": 133507691569228780
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_GSX_DECALS_2K.PNG.DDS.json",
       "size": 102,
-      "date": 133626196030000000
+      "date": 133507691569233740
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_JMS_TOW_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 133053799126152803
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_JMS_TOW_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 132963167720000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_JMS_TOW_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132646968400000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_JMS_TOW_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 133053799126939805
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_JMS_TOW_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 132646968400000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_JMS_TOW_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 133053799128363322
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_JMS_TOW_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132646968400000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_JMS_TOW_WHEEL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 133053799128626204
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_JMS_TOW_WHEEL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132646968400000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_JMS_TOW_WHEEL_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 133053799128958524
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_JMS_TOW_WHEEL_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 132646968400000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_JMS_TOW_WHEEL_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133053799129444614
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_JMS_TOW_WHEEL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132646968400000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_ADD_ALBD.PNG.DDS",
       "size": 5592560,
-      "date": 133626196030000000
+      "date": 133053799178193646
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_ADD_ALBD.PNG.DDS.json",
       "size": 119,
-      "date": 133626196030000000
+      "date": 133507691569233740
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_ADD_COMP.PNG.DDS",
       "size": 2796344,
-      "date": 133626196030000000
+      "date": 133053799178401965
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_ADD_COMP.PNG.DDS.json",
       "size": 166,
-      "date": 133626196030000000
+      "date": 133507691569238708
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_ADD_NORM.PNG.DDS",
       "size": 5592560,
-      "date": 133626196030000000
+      "date": 133053799178714445
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_ADD_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133626196030000000
+      "date": 133507691569243662
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_ALBD.PNG.DDS",
-      "size": 16777344,
-      "date": 133626196030000000
+      "size": 11184952,
+      "date": 133053799179726285
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_Trepel_C208_ALBD.png.DDS.FLAGS",
       "size": 18,
-      "date": 133626196030000000
+      "date": 133507691569243662
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133626196030000000
+      "date": 133507691569248620
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_COMP.PNG.DDS",
       "size": 11184952,
-      "date": 133626196030000000
+      "date": 133053799180991510
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_COMP.PNG.DDS.json",
       "size": 166,
-      "date": 133626196030000000
+      "date": 133507691569253586
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_NORM.PNG.DDS",
       "size": 22369776,
-      "date": 133626196040000000
+      "date": 133053799181919029
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133626196040000000
+      "date": 133507691569253586
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_WHEEL_ALBD.PNG.DDS",
       "size": 2796344,
-      "date": 133626196040000000
+      "date": 133053799182480254
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_WHEEL_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133626196040000000
+      "date": 133507691569258548
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_WHEEL_COMP.PNG.DDS",
       "size": 2796344,
-      "date": 133626196040000000
+      "date": 133053799182898881
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_WHEEL_COMP.PNG.DDS.json",
       "size": 166,
-      "date": 133626196040000000
+      "date": 133507691569263501
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_WHEEL_NORM.PNG.DDS",
       "size": 5592560,
-      "date": 133626196040000000
+      "date": 133053799183570448
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/FSDT_TREPEL_C208_WHEEL_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133626196040000000
+      "date": 133507691569268468
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
-      "size": 262272,
-      "date": 133626196020000000
+      "size": 349712,
+      "date": 132817368760000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
-      "size": 20,
-      "date": 133626196020000000
+      "size": 18,
+      "date": 134100258500000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
       "size": 119,
-      "date": 133626196020000000
+      "date": 132817368760000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_280/texture.TUI/texture.CFG",
-      "size": 555,
-      "date": 133626204760000000
+      "size": 350,
+      "date": 133916185460000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_ACC_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 133817887839734985
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_ACC_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_ACC_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 133817887723213613
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_ACC_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809864060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_ACC_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133817887907676967
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_ACC_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BODYR_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 133817887883506927
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BODYR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BODYR_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 133817887701566822
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BODYR_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BODYR_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 133817887823590206
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BODYR_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BODY_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 133817887874311088
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BODY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133809864060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BODY_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 133817887916540471
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BODY_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809864060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BODY_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 133817887719527421
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BODY_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809864060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BUTTON_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 133817887661823322
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BUTTON_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BUTTON_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 133817887711315658
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BUTTON_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BUTTON_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 133817887700957892
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_BUTTON_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_CHROME_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 133817887683532996
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_CHROME_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_CHROME_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 133817887827166353
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_CHROME_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_CHROME_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 133817887757754546
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_CHROME_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_GLASS_ALBD.PNG.DDS",
+      "size": 349680,
+      "date": 133817887699538533
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_GLASS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_GLASS_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 133817887979988716
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_GLASS_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_GLASS_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 133817887758327292
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_GLASS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_METALG_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 133817887897990101
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_METALG_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_METALG_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 133817887876999407
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_METALG_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_METALG_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 133817887941563783
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_METALG_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_RUBBER_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 133817887780116171
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_RUBBER_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_RUBBER_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 133817887965049212
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_RUBBER_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_RUBBER_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 133817887758818856
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700_RUBBER_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__GRID_ALBD.PNG.DDS",
+      "size": 349680,
+      "date": 133817887703070767
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__GRID_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__GRID_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 133817887976829198
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__GRID_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__GRID_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 133817887800800250
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__GRID_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809864060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__LEATHER_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 133817887810707814
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__LEATHER_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__LEATHER_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 133817887932660455
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__LEATHER_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__LEATHER_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 133817887857283436
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__LEATHER_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALN_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 133817887698750690
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALN_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALN_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 133817887971184724
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALN_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809864060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALN_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 133817887929337259
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALN_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALR_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 133817887801316084
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALR_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 133817887756691120
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALR_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809864060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALR_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 133817887929867980
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALR_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALY_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 133817887766923852
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133809864060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALY_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 133817887934867653
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALY_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALY_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 133817887866528862
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__METALY_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809864060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__PLASTICN_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 133817887947108920
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__PLASTICN_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__PLASTICN_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 133817887964141535
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__PLASTICN_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__PLASTICN_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 133817887967558970
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__PLASTICN_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__PLASTIC_R_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 133817887730520650
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__PLASTIC_R_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__PLASTIC_R_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 133817887743012483
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__PLASTIC_R_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809864060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__PLASTIC_R_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 133817887939500288
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__PLASTIC_R_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809864060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__RUBBER_Y_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 133817887971591445
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__RUBBER_Y_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__RUBBER_Y_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 133817887964622652
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__RUBBER_Y_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__RUBBER_Y_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 133817887757218806
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TC_700__RUBBER_Y_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TOWBAR2_BODY_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 133817887969776206
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TOWBAR2_BODY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133809919400000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TOWBAR2_BODY_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 133817887792779032
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TOWBAR2_BODY_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809919400000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TOWBAR2_BODY_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133817887813749579
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TOWBAR2_BODY_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809919400000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TOWBAR2_WHEEL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 133817887926093427
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TOWBAR2_WHEEL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TOWBAR2_WHEEL_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 133817887936162210
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TOWBAR2_WHEEL_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TOWBAR2_WHEEL_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133817887852303738
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/FSDT_TOWBAR2_WHEEL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 133809144820000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
+      "size": 349712,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134100258500000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
+      "size": 119,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Pushback_Trepel_700/texture.TUI/texture.CFG",
+      "size": 453,
+      "date": 133916078500000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/CATERING_DECALS.PNG.DDS",
+      "size": 5592560,
+      "date": 133053800392925761
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/Catering_Decals.png.DDS.FLAGS",
+      "size": 18,
+      "date": 133507692713174475
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/CATERING_DECALS.PNG.DDS.json",
+      "size": 119,
+      "date": 133507692713179436
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_CDS_1_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 134196197593089963
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_cds_1_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134194445598528930
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_CDS_1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134194445598533926
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_CDS_1_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 134107205535317607
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_cds_1_comp.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134105311560000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_CDS_1_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134105377440000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_CDS_1_EMIS.PNG.DDS",
+      "size": 2796344,
+      "date": 134107205548706336
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_CDS_1_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 134105491540000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_CDS_1_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 134107205508845858
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_cds_1_norm.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134105311560000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_CDS_1_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134105377440000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_CDS_2_ALBD.PNG.DDS",
+      "size": 4194432,
+      "date": 134284316969553354
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_cds_2_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134105311560000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_CDS_2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134105311560000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_CDS_2_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 134107205492508307
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_cds_2_comp.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134105311560000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_CDS_2_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134105311560000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_CDS_2_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 134107205539883857
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_cds_2_norm.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134105311560000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_CDS_2_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134105311560000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_QDR_STR_2445_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 134107205527940739
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_QDR_STR_2445_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134100330280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_QDR_STR_2445_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 134107205557817042
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_QDR_STR_2445_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134100330280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_QDR_STR_2445_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 134107205489206598
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_QDR_STR_2445_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134100330280000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_STAIRCASE_CDS_2438_ALBEDO.PNG.DDS",
       "size": 16777344,
-      "date": 133979402360000000
+      "date": 134284148346760573
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_STAIRCASE_CDS_2438_ALBEDO.PNG.DDS.json",
       "size": 102,
-      "date": 133979402360000000
+      "date": 133508650615113574
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_STAIR_COP_GLASS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 134107205546143088
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_STAIR_COP_GLASS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 134106217240000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_STAIR_COP_GLASS_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 134107205542420891
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_STAIR_COP_GLASS_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134106217240000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_STAIR_COP_GLASS_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 134107205525302570
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_STAIR_COP_GLASS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134106217240000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_STAIR_COP_MET_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 134107205513410172
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_STAIR_COP_MET_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134106217240000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_STAIR_COP_MET_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 134107205555470568
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_STAIR_COP_MET_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134106217240000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_STAIR_COP_MET_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 134107205552457394
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/FSDT_STAIR_COP_MET_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134106217240000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
       "size": 262272,
-      "date": 133979402360000000
+      "date": 133508650615316930
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
       "size": 20,
-      "date": 133979402360000000
+      "date": 133508650615500450
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
       "size": 119,
-      "date": 133979402360000000
+      "date": 133508650615698850
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2438/texture.TUI/texture.CFG",
       "size": 145,
-      "date": 133979402360000000
+      "date": 133508650615892288
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2445/texture.TUI/CATERING_DECALS.PNG.DDS",
+      "size": 5592560,
+      "date": 133053800392925761
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2445/texture.TUI/Catering_Decals.png.DDS.FLAGS",
+      "size": 18,
+      "date": 133507692713174475
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2445/texture.TUI/CATERING_DECALS.PNG.DDS.json",
+      "size": 119,
+      "date": 133507692713179436
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2445/texture.TUI/FSDT_CDS_1_ALBD.PNG.DDS",
+      "size": 16777344,
+      "date": 134284190465600671
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2445/texture.TUI/FSDT_cds_1_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134194445598528930
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2445/texture.TUI/FSDT_CDS_1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134194445598533926
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2445/texture.TUI/FSDT_CDS_3_ALBD.PNG.DDS",
+      "size": 4194432,
+      "date": 134284196084761674
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2445/texture.TUI/FSDT_cds_3_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134194445604086745
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2445/texture.TUI/FSDT_CDS_3_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134194445604099437
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2445/texture.TUI/FSDT_STAIRCASE_CDS_2438_ALBEDO.PNG.DDS",
+      "size": 16777344,
+      "date": 134284148346760573
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2445/texture.TUI/FSDT_STAIRCASE_CDS_2438_ALBEDO.PNG.DDS.json",
+      "size": 102,
+      "date": 133508650615113574
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2445/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
+      "size": 262272,
+      "date": 133508650615316930
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2445/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
+      "size": 20,
+      "date": 133508650615500450
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2445/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
+      "size": 119,
+      "date": 133508650615698850
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_CDS_2445/texture.TUI/texture.CFG",
+      "size": 284,
+      "date": 134230509681842553
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_FW2358PE/texture.TUI/FSDT_GSX_DECALS_2K.PNG.DDS",
+      "size": 2796344,
+      "date": 133532814405061963
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_FW2358PE/texture.TUI/FSDT_GSX_decals_2k.png.DDS.FLAGS",
+      "size": 18,
+      "date": 133519735560000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_FW2358PE/texture.TUI/FSDT_GSX_DECALS_2K.PNG.DDS.json",
+      "size": 102,
+      "date": 133519735580000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_FW2358PE/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
+      "size": 262272,
+      "date": 133508650615316930
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_FW2358PE/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
+      "size": 20,
+      "date": 133508650615500450
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_FW2358PE/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
+      "size": 119,
+      "date": 133508650615698850
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Staircase_FW2358PE/texture.TUI/texture.CFG",
+      "size": 215,
+      "date": 133916081060000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-1740/texture.TUI/FSDT_STAIRCASE_TLD_ABS-1740_ALBEDO.PNG.DDS",
       "size": 11184952,
-      "date": 133979402360000000
+      "date": 133053800588121631
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-1740/texture.TUI/FSDT_STAIRCASE_TLD_ABS-1740_ALBEDO.PNG.DDS.json",
       "size": 102,
-      "date": 133979402360000000
+      "date": 133507692733375183
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-1740/texture.TUI/FSDT_STAIRCASE_TLD_ABS-1740_COMP.PNG.DDS",
       "size": 11184952,
-      "date": 133979402360000000
+      "date": 133053800589284173
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-1740/texture.TUI/FSDT_STAIRCASE_TLD_ABS-1740_COMP.PNG.DDS.json",
       "size": 166,
-      "date": 133979402360000000
+      "date": 133507692733380143
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-1740/texture.TUI/FSDT_STAIRCASE_TLD_ABS-1740_EMISSIVE.PNG.DDS",
       "size": 11184952,
-      "date": 133979402360000000
+      "date": 133053800589482571
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-1740/texture.TUI/FSDT_STAIRCASE_TLD_ABS-1740_EMISSIVE.PNG.DDS.json",
       "size": 102,
-      "date": 133979402360000000
+      "date": 133507692733380143
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-1740/texture.TUI/FSDT_STAIRCASE_TLD_ABS-1740_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 133979402360000000
+      "date": 133053800590405131
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-1740/texture.TUI/FSDT_STAIRCASE_TLD_ABS-1740_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 133979402360000000
+      "date": 133507692733385103
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-1740/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
-      "size": 262272,
-      "date": 133979402360000000
+      "size": 349712,
+      "date": 132817368760000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-1740/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
-      "size": 20,
-      "date": 133979402360000000
+      "size": 18,
+      "date": 134100258500000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-1740/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
       "size": 119,
-      "date": 133979402360000000
+      "date": 132817368760000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-1740/texture.TUI/texture.CFG",
       "size": 63,
-      "date": 133979402360000000
+      "date": 133507692733390066
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/FSDT_STAIRCASE_TLD_ABS-580_ALBEDO.PNG.DDS",
       "size": 11184952,
-      "date": 133979402360000000
+      "date": 133053800619034092
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/FSDT_Staircase_TLD_ABS-580_ALBEDO.png.DDS.FLAGS",
       "size": 18,
-      "date": 133979402360000000
+      "date": 133507692740100949
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/FSDT_STAIRCASE_TLD_ABS-580_ALBEDO.PNG.DDS.json",
       "size": 102,
-      "date": 133979402360000000
+      "date": 133507692740100949
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/FSDT_STAIRCASE_TLD_ABS-580_COMP.PNG.DDS",
       "size": 11184952,
-      "date": 133979402360000000
+      "date": 133053800620211900
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/FSDT_STAIRCASE_TLD_ABS-580_COMP.PNG.DDS.json",
       "size": 166,
-      "date": 133979402360000000
+      "date": 133507692740105911
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/FSDT_STAIRCASE_TLD_ABS-580_EMISSIVE.PNG.DDS",
       "size": 11184952,
-      "date": 133979402360000000
+      "date": 133053800620410299
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/FSDT_STAIRCASE_TLD_ABS-580_EMISSIVE.PNG.DDS.json",
       "size": 102,
-      "date": 133979402360000000
+      "date": 133507692740105911
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/FSDT_STAIRCASE_TLD_ABS-580_GLASS_ALBEDO.PNG.DDS",
       "size": 22369776,
-      "date": 133979402360000000
+      "date": 133053800620782295
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/FSDT_STAIRCASE_TLD_ABS-580_GLASS_ALBEDO.PNG.DDS.json",
       "size": 119,
-      "date": 133979402360000000
+      "date": 133507692740110870
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/FSDT_STAIRCASE_TLD_ABS-580_GLASS_COMP.PNG.DDS",
       "size": 11184952,
-      "date": 133979402360000000
+      "date": 133053800620965813
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/FSDT_STAIRCASE_TLD_ABS-580_GLASS_COMP.PNG.DDS.json",
       "size": 166,
-      "date": 133979402360000000
+      "date": 133507692740115828
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/FSDT_STAIRCASE_TLD_ABS-580_GLASS_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 133979402360000000
+      "date": 133053800621337813
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/FSDT_STAIRCASE_TLD_ABS-580_GLASS_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 133979402360000000
+      "date": 133507692740115828
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/FSDT_STAIRCASE_TLD_ABS-580_NORMAL.PNG.DDS",
       "size": 22369776,
-      "date": 133979402370000000
+      "date": 133053800622469367
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/FSDT_STAIRCASE_TLD_ABS-580_NORMAL.PNG.DDS.json",
       "size": 160,
-      "date": 133979402370000000
+      "date": 133507692740120787
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
-      "size": 262272,
-      "date": 133979402370000000
+      "size": 349712,
+      "date": 132817368760000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
       "size": 18,
-      "date": 133979402370000000
+      "date": 134100258500000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
       "size": 119,
-      "date": 133979402370000000
+      "date": 132817368760000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/GSX_VEH_LIGHTS.PNG.DDS",
       "size": 43848,
-      "date": 133979402370000000
+      "date": 133053800622518967
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/GSX_VEH_LIGHTS.PNG.DDS.json",
       "size": 102,
-      "date": 133979402370000000
+      "date": 133507692740130708
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Staircase_TLD_ABS-580/texture.TUI/texture.CFG",
       "size": 64,
-      "date": 133979402370000000
+      "date": 133507692740130708
     },
     {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_GSX_DECALS_2K.PNG.DDS",
-      "size": 2796344,
-      "date": 133979402370000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_GSX_decals_2k.png.DDS.FLAGS",
-      "size": 18,
-      "date": 133979402370000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_GSX_DECALS_2K.PNG.DDS.json",
-      "size": 102,
-      "date": 133979402370000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_ADD_ALBD.PNG.DDS",
-      "size": 5592560,
-      "date": 133979402370000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_ADD_ALBD.PNG.DDS.json",
-      "size": 119,
-      "date": 133979402370000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_ADD_COMP.PNG.DDS",
-      "size": 2796344,
-      "date": 133979402370000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_ADD_COMP.PNG.DDS.json",
-      "size": 166,
-      "date": 133979402370000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_ADD_NORM.PNG.DDS",
-      "size": 5592560,
-      "date": 133979402370000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_ADD_NORM.PNG.DDS.json",
-      "size": 160,
-      "date": 133979402370000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_ALBD.PNG.DDS",
-      "size": 16777344,
-      "date": 133979402370000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_Trepel_C208_ALBD.png.DDS.FLAGS",
-      "size": 18,
-      "date": 133979402370000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 133979402370000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_COMP.PNG.DDS",
-      "size": 11184952,
-      "date": 133979402370000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_COMP.PNG.DDS.json",
-      "size": 166,
-      "date": 133979402370000000
-    },
-    {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_NORM.PNG.DDS",
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_BODY_ALBD.PNG.DDS",
       "size": 22369776,
-      "date": 133979402370000000
+      "date": 134263564172583641
     },
     {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_NORM.PNG.DDS.json",
-      "size": 160,
-      "date": 133979402370000000
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_BODY_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134255665020000000
     },
     {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_WHEEL_ALBD.PNG.DDS",
-      "size": 2796344,
-      "date": 133979402370000000
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_BODY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 134255665020000000
     },
     {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_WHEEL_ALBD.PNG.DDS.json",
-      "size": 102,
-      "date": 133979402370000000
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_BODY_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 134263564140183500
     },
     {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_WHEEL_COMP.PNG.DDS",
-      "size": 2796344,
-      "date": 133979402370000000
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_BODY_comp.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134255665020000000
     },
     {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_WHEEL_COMP.PNG.DDS.json",
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_BODY_COMP.PNG.DDS.json",
       "size": 166,
-      "date": 133979402370000000
+      "date": 134255665020000000
     },
     {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_WHEEL_NORM.PNG.DDS",
-      "size": 5592560,
-      "date": 133979402370000000
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_BODY_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 134263564195650015
     },
     {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/FSDT_TREPEL_C208_WHEEL_NORM.PNG.DDS.json",
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_BODY_norm.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_BODY_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 133979402370000000
+      "date": 134255665020000000
     },
     {
-      "path": "SimObjects/GroundVehicles/FSDT_Trepel_280/texture.TUI/texture.CFG",
-      "size": 63,
-      "date": 133979402370000000
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_GLASS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 134263564208917232
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_GLASS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_GLASS_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 134263564215843193
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_GLASS_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_GLASS_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 134263564119140531
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_GLASS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_LEATHER_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 134263564222198041
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_LEATHER_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_LEATHER_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 134263564123893691
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_LEATHER_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_LEATHER_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 134263564126308745
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_LEATHER_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 134263564197924858
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_BLACK_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 134263564097843335
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_BLACK_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_BLACK_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 134263564219365669
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_BLACK_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_BLACK_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 134263564112574893
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_BLACK_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 134263564221088550
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 134263564223046238
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_YELLOW_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 134263564093462920
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_YELLOW_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_YELLOW_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 134263564098512499
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_YELLOW_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_YELLOW_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 134263564199684326
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_METAL_YELLOW_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_MIRROR_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 134263564196585013
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_MIRROR_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_MIRROR_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 134263564127270956
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_MIRROR_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_MIRROR_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 134263564173768106
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_MIRROR_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_PARTS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 134263564111069316
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_PARTS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_PARTS_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 134263564123374462
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_PARTS_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_PARTS_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 134263564106635236
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_PARTS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_PLASTIC_BLACK_ALBD.PNG.DDS",
+      "size": 174904,
+      "date": 134263564216630419
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_PLASTIC_BLACK_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_PLASTIC_BLACK_COMP.PNG.DDS",
+      "size": 174904,
+      "date": 134263564097229031
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_PLASTIC_BLACK_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_PLASTIC_BLACK_NORM.PNG.DDS",
+      "size": 349680,
+      "date": 134263564148071870
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_PLASTIC_BLACK_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_WHEELS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 134263564100732418
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_WHEELS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_WHEELS_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 134263564096098632
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_WHEELS_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_WHEELS_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 134263564145190147
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/FSDT_TLD_JET16_WHEELS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
+      "size": 349712,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134100258500000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
+      "size": 119,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/texture.CFG",
+      "size": 419,
+      "date": 134283574354544909
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/TLD_JET16_STICKER.PNG.DDS",
+      "size": 1398256,
+      "date": 134263564125557523
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TLD_JET_16/texture.TUI/TLD_JET16_STICKER.PNG.DDS.json",
+      "size": 119,
+      "date": 134255665020000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_CAPOTE_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 133053800645234020
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_CAPOTE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132969323460000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_CAPOTE_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133053800645298498
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_CAPOTE_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 132969323460000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_CAPOTE_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 133053800645425728
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_CAPOTE_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132969323460000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T1_ALBD.PNG.DDS",
-      "size": 4194432,
-      "date": 133626196040000000
+      "size": 5592560,
+      "date": 133053800645648928
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T1_ALBD.png.DDS.FLAGS",
       "size": 18,
-      "date": 133626196040000000
+      "date": 132963167720000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T1_ALBD.PNG.DDS.json",
       "size": 119,
-      "date": 133626196040000000
+      "date": 132969309220000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T1_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 133053800645956447
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T1_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 132961368060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T1_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133053800646502053
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T1_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132961368060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T2_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 133053800647241099
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T2_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 132963167720000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132963170000000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T2_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 133053800648439619
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T2_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 132963170000000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T2_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 133053800650274820
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T2_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132963170000000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T3_ALBD.PNG.DDS",
+      "size": 699192,
+      "date": 133053800650315730
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T3_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132959879580000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T3_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133053800650400525
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T3_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 132961368060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T3_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 133053800650538399
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T3_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132961368060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T4_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 133053800650756639
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T4_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132961368060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T4_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 133053800651029438
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T4_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 132961368060000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T4_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133053800651475839
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/FSDT_TUG_660_T4_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132961368060000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
-      "size": 262272,
-      "date": 133626196040000000
+      "size": 349712,
+      "date": 132817368760000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
-      "size": 20,
-      "date": 133626196040000000
+      "size": 18,
+      "date": 134100258500000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
       "size": 119,
-      "date": 133626196040000000
+      "date": 132817368760000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Tug_660/texture.TUI/texture.CFG",
-      "size": 268,
-      "date": 133981358614740505
+      "size": 270,
+      "date": 133508650617950687
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_B1_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 134107205852560973
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_Endurance_B1_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134088676780000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_B1_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134087376640000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_B1_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 134107205822108293
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_Endurance_B1_comp.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134088676780000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_B1_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134088676780000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_B1_EMIS.PNG.DDS",
+      "size": 11184952,
+      "date": 134107205784148120
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_B1_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 134087376640000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_B1_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 134107205768946390
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_Endurance_B1_norm.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134088676780000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_B1_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134087376640000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_B2_ALBD.PNG.DDS",
+      "size": 11184952,
+      "date": 134107205802762160
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_Endurance_B2_ALBD.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134088676780000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_B2_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 134086459200000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_B2_COMP.PNG.DDS",
+      "size": 11184952,
+      "date": 134107205810780342
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_Endurance_B2_comp.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134088676780000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_B2_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134086459200000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_B2_EMIS.PNG.DDS",
+      "size": 11184952,
+      "date": 134107205792063903
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_B2_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 134087376640000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_B2_NORM.PNG.DDS",
+      "size": 22369776,
+      "date": 134107205844133654
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_Endurance_B2_norm.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134088676780000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_B2_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134087376640000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_DECALS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 134107205775960152
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_DECALS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 134086459200000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_DECALS_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 134107205826663862
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_DECALS_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134086459200000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_DECALS_EMIS.PNG.DDS",
+      "size": 2796344,
+      "date": 134107205813902345
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_DECALS_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 134086459200000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_DECALS_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 134107205830337241
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_DECALS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134086459200000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_GLASS_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 134107205777804587
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_GLASS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 134087376640000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_GLASS_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 134107205815119838
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_GLASS_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 134086459200000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_GLASS_EMIS.PNG.DDS",
+      "size": 699192,
+      "date": 134107205772114825
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_GLASS_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 134086459200000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_GLASS_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 134107205824613608
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/FSDT_TUG_ENDURANCE_GLASS_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 134086459200000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
+      "size": 349712,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
+      "size": 18,
+      "date": 134100258500000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
+      "size": 119,
+      "date": 132817368760000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_TUG_Endurance/texture.TUI/texture.CFG",
+      "size": 350,
+      "date": 134283575779272335
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_SIREN_STD_ALBD.PNG.DDS",
+      "size": 1398256,
+      "date": 133053800665101444
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_SIREN_STD_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132609119200000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_SIREN_STD_COMP.PNG.DDS",
+      "size": 699192,
+      "date": 133053800665160966
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_SIREN_STD_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 132609119200000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_SIREN_STD_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 133053800665260165
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_SIREN_STD_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132609119220000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_TOW_TUG_BODY_ALBD.PNG.DDS",
-      "size": 4194432,
-      "date": 133979402370000000
+      "size": 2796344,
+      "date": 133053800665552804
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_TOW_TUG_BODY_ALBD.PNG.DDS.json",
       "size": 102,
-      "date": 133979402370000000
+      "date": 132901173300000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_TOW_TUG_BODY_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 133053800665761124
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_TOW_TUG_BODY_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 132901173300000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_TOW_TUG_BODY_EMIS.PNG.DDS",
+      "size": 2796344,
+      "date": 133053800665820644
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_TOW_TUG_BODY_EMIS.PNG.DDS.json",
+      "size": 102,
+      "date": 132901173300000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_TOW_TUG_BODY_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133053800666306724
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_TOW_TUG_BODY_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132901173300000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_TOW_TUG_WHEEL_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 133053800666585051
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_TOW_TUG_WHEEL_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132901173280000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_TOW_TUG_WHEEL_COMP.PNG.DDS",
+      "size": 2796344,
+      "date": 133053800666998977
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_TOW_TUG_WHEEL_COMP.PNG.DDS.json",
+      "size": 166,
+      "date": 132901173300000000
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_TOW_TUG_WHEEL_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 133053800667543615
+    },
+    {
+      "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/FSDT_TOW_TUG_WHEEL_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132901173300000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/GSX_LOGO_4X1.PNG.DDS",
-      "size": 262272,
-      "date": 133979402370000000
+      "size": 349712,
+      "date": 132817368760000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/GSX_logo_4x1.png.DDS.FLAGS",
-      "size": 20,
-      "date": 133979402370000000
+      "size": 18,
+      "date": 134100258500000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/GSX_LOGO_4X1.PNG.DDS.json",
       "size": 119,
-      "date": 133979402370000000
+      "date": 132817368760000000
     },
     {
       "path": "SimObjects/GroundVehicles/FSDT_Tug_M1A/texture.TUI/texture.CFG",
-      "size": 424,
-      "date": 133981355080356725
+      "size": 438,
+      "date": 134230496714575202
     },
     {
       "path": "SimObjects/GroundVehicles/Hinshee_Cobus_3000_BHX/sim.cfg",
       "size": 1588,
-      "date": 133981200401929481
+      "date": 134147772000294788
     },
     {
       "path": "SimObjects/GroundVehicles/Hinshee_Cobus_3000_BHX/model/rules_passengerbus.cfg",
       "size": 50,
-      "date": 133981154752855291
+      "date": 134147772000289831
     },
     {
       "path": "SimObjects/GroundVehicles/Hinshee_Cobus_3000_BHX/model.BHX/model.cfg",
       "size": 82,
-      "date": 133925717232575897
+      "date": 134147772000294788
     },
     {
       "path": "SimObjects/GroundVehicles/Hinshee_Cobus_3000_BHX/soundai/soundai.cfg",
       "size": 129,
-      "date": 133925717233066943
+      "date": 134147772000302039
     },
     {
       "path": "SimObjects/GroundVehicles/Hinshee_Cobus_3000_BHX/texture/rules_passengerbus.cfg",
       "size": 33,
-      "date": 133981154074038915
+      "date": 134147772000308868
     },
     {
       "path": "SimObjects/GroundVehicles/Hinshee_Cobus_3000_BHX/texture.BHX/FSDT_COBUS3000_BODY_ALBD.PNG.DDS",
       "size": 22369776,
-      "date": 133981152753756707
+      "date": 134147772000828587
     },
     {
       "path": "SimObjects/GroundVehicles/Hinshee_Cobus_3000_BHX/texture.BHX/FSDT_COBUS3000_BODY_ALBD.png.DDS.FLAGS",
       "size": 18,
-      "date": 133925717235522139
+      "date": 134147772000828587
     },
     {
       "path": "SimObjects/GroundVehicles/Hinshee_Cobus_3000_BHX/texture.BHX/FSDT_COBUS3000_BODY_ALBD.PNG.DDS.json",
       "size": 119,
-      "date": 133925717235894137
+      "date": 134147772000833545
     },
     {
       "path": "SimObjects/GroundVehicles/Hinshee_Cobus_3000_BHX/texture.BHX/FSDT_COBUS3000_BODY_COMP.png.DDS",
       "size": 22369776,
-      "date": 133981162751028820
+      "date": 134147772001520755
     },
     {
       "path": "SimObjects/GroundVehicles/Hinshee_Cobus_3000_BHX/texture.BHX/FSDT_COBUS3000_BODY_COMP.PNG.DDS.json",
       "size": 166,
-      "date": 133925717237659897
+      "date": 134147772001549085
     },
     {
       "path": "SimObjects/GroundVehicles/Hinshee_Cobus_3000_BHX/texture.BHX/GSX_Logo_4x1.PNG.DDS",
       "size": 496,
-      "date": 133981162584375933
+      "date": 134147772001554046
     },
     {
       "path": "SimObjects/GroundVehicles/Hinshee_Cobus_3000_BHX/texture.BHX/GSX_LOGO_4X1.PNG.DDS.json",
       "size": 119,
-      "date": 133925717240497018
+      "date": 134147772001554046
     },
     {
       "path": "SimObjects/GroundVehicles/Hinshee_Cobus_3000_BHX/texture.BHX/GSX_PLATE_4X1.PNG.dds",
       "size": 87568,
-      "date": 133981162450562180
+      "date": 134147772001563970
     },
     {
       "path": "SimObjects/GroundVehicles/Hinshee_Cobus_3000_BHX/texture.BHX/GSX_plate_4x1.png.DDS.FLAGS",
       "size": 36,
-      "date": 133925745198188142
+      "date": 134147772001570029
     },
     {
       "path": "SimObjects/GroundVehicles/Hinshee_Cobus_3000_BHX/texture.BHX/GSX_PLATE_4X1.PNG.DDS.json",
       "size": 157,
-      "date": 133925745197987068
+      "date": 134147772001574987
     },
     {
       "path": "SimObjects/GroundVehicles/Hinshee_Cobus_3000_BHX/texture.BHX/texture.cfg",
       "size": 2539,
-      "date": 133928374979421387
+      "date": 134147772001574987
     }
   ]
 }
