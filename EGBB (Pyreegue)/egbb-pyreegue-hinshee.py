@@ -1,6 +1,6 @@
 # -- coding: utf-8 --
 
-version = 1
+version = 1.3
 msfs_mode = 1
 icao = "egbb"
 
@@ -46,8 +46,8 @@ def customOffset_Gate42C(aircraftData):
 	}
 
 	table777 = {
-		2: 10.8,
-		3: 13.55,
+		200: 10.8,
+		300: 13.55,
 	}
     
 	table330 = {
@@ -161,7 +161,7 @@ def customOffset_Gate56C(aircraftData):
     }
 	
 	table777 = {
-        3: 8.1,
+        300: 8.1,
     }
     
 	try:
@@ -260,8 +260,8 @@ def customOffset_Gate41C(aircraftData):
 	}
 
 	table777 = {
-		2: 7,
-		3: 9,
+		200: 7,
+		300: 9,
 	}
 
 	table330 = {
@@ -366,7 +366,7 @@ SPRSN = RemoteStandNames("South Pier (1-16, 20-25)", "", 1)
 NPSN = TerminalNames("North Pier (40-42, 54-60)", "", 2)
 WRSN = RemoteStandNames("Western Remote Stands (70-77, 80-86)", "", 3)
 EAN = StandNames("Elmdon Apron", "", 4)
-
+EAN_GA = StandNames("Elmdon Apron", "GA", 4)
 
 parkings = {
     GATE: {
@@ -454,5 +454,10 @@ parkings = {
             506 : (EAN, customOffset_Stand),
             "601L" : (EAN, customOffset_Stand),
             "601R" : (EAN, customOffset_Stand),
+    },
+    E_PARKING: {
+        None: ( ),
+            1 : (EAN_GA, customOffset_Stand),
+            2 : (EAN_GA, customOffset_Stand),
     },
 }
