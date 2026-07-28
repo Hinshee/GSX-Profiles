@@ -1,7 +1,7 @@
 msfs_mode = 1
 version = 1.3
 
-# ORBX EGPH Handler
+# Pyreegue EGPHv2 Handler
 AIRPORT_ICAO = "EGPH"
 SCENERY = "Pyreegue Edinburgh"
 VEHICLE_PREFERENCE = {
