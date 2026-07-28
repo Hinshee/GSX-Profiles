@@ -2,7 +2,7 @@
 
 msfs_mode = 1
 icao = "egph"
-version = 1.2
+version = 1.4
 
 @AlternativeStopPositions
 def customOffset_Stand(aircraftData):
@@ -39,61 +39,50 @@ def customOffset_Gate(aircraftData):
 @AlternativeStopPositions
 def customOffset_Gate16(aircraftData):
 	table = {
-		0: 0,
-		170: 0,
-		175: 0,
-		737: 8,
-		320: 8,
-		319: 8,
-		321: 11.3,
-		900: 11.3,
-		767: 13.1,
-		787: 13.1,
-		777: 14.15,
+		"Unknown": 0,
+		"ARC-B": 0,
+        "ARC-C": 8,
+        "ARC-D": 11.3,
+        "ARC-E": 13.1,
+        "ARC-F": 14.15,
 	}
 
-	return Distance.fromMeters( table.get(aircraftData.idMajor, 0) - 0.25 )
+	try:
+		return Distance.fromMeters( table.get(aircraftData.aircraftGroup)  - 0.25 )
+	except:
+		return Distance()
 
 @AlternativeStopPositions
 def customOffset_Gate18(aircraftData):
 	table = {
-		0: 0,
-		787: 0,
-		777: 9,
+		"Unknown": 0,
+		"ARC-B": 0,
+        "ARC-C": 0,
+        "ARC-D": 3.2,
+        "ARC-E": 6.4,
+        "ARC-F": 9.3,
 	}
 
-	table787 = {
-     	0: 2.8,
-		8: 2.8,
-		9: 2.8,
-		10: 6.1,
-	}
-
-	if aircraftData.idMajor == 787:
-		return Distance.fromMeters( table787.get(aircraftData.idMinor)  - 0.25 )
-	else:
-		try:
-			return Distance.fromMeters( table.get(aircraftData.idMajor)  - 0.25 )
-		except:
-			return Distance()
+	try:
+		return Distance.fromMeters( table.get(aircraftData.aircraftGroup)  - 0.25 )
+	except:
+		return Distance()
 
 @AlternativeStopPositions
 def customOffset_Stand12(aircraftData):
 	table = {
-		0: 0,
-		170: 0,
-		175: 0,
-		737: 7.2,
-		320: 7.2,
-		319: 7.2,
-		321: 11.3,
-		900: 11.3,
-		767: 13.3,
-		787: 13.3,
-		777: 13.8,
+		"Unknown": 0,
+		"ARC-B": 0,
+        "ARC-C": 7.2,
+        "ARC-D": 11.3,
+        "ARC-E": 13.3,
+        "ARC-F": 13.8,
 	}
 
-	return Distance.fromMeters( table.get(aircraftData.idMajor, 0) - 0.25 )
+	try:
+		return Distance.fromMeters( table.get(aircraftData.aircraftGroup)  - 0.25 )
+	except:
+		return Distance()
 
 @AlternativeStopPositions
 def customOffset_Gate4A(aircraftData):
@@ -145,13 +134,14 @@ def StandNames(name, letter, priority):
 	return CustomizedName( "%s | Stand %s#§" % (name, letter), priority )
   
 MainApronNames = TerminalNames("Main Apron (1-14, 99-106)", "", 1)
-SoutheastPierNames = StandNames("Southeast Pier (15-25)", "", 1)
-SoutheastApronNames = StandNames("Southeast Apron (26-33)", "", 2)
-TurnhouseApronNames = StandNames("Turnhouse Apron (308-317)", "", 2)
-NorthApronNames = StandNames("North Apron (200-208)", "", 3)
-EastApronNames = StandNames("East Apron (210-212)", "", 4)
-RemoteNames = StandNames("Remote Stands", "", 5)
-GANames = StandNames("GA Apron", "", 6)
+SoutheastPierNames = StandNames("Southeast Pier (15-25)", "", 2)
+SoutheastApronNames = StandNames("Southeast Apron (26-33)", "", 3)
+TurnhouseApronNames = StandNames("Turnhouse Apron (308-317)", "", 4)
+MidfieldApronNames = StandNames("Midfield Apron (403-407)", "", 5)
+NorthApronNames = StandNames("North Apron (200-208)", "", 6)
+EastApronNames = StandNames("East Apron (210-212)", "", 7)
+RemoteNames = StandNames("Remote Stands", "", 8)
+GANames = StandNames("GA Apron", "", 9)
 
 parkings = {
     GATE: {
@@ -204,6 +194,11 @@ parkings = {
 			32 : (SoutheastApronNames, customOffset_Stand),
 			33 : (SoutheastApronNames, customOffset_Stand),
 			34 : (SoutheastApronNames, customOffset_Stand),
+            403 : (MidfieldApronNames, customOffset_Stand),
+            404 : (MidfieldApronNames, customOffset_Stand),
+            405 : (MidfieldApronNames, customOffset_Stand),
+            406 : (MidfieldApronNames, customOffset_Stand),
+            407 : (MidfieldApronNames, customOffset_Stand),
     },
 	SE_PARKING: {
 		None: ( ),
