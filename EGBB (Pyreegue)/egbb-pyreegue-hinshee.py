@@ -1,6 +1,6 @@
 # -- coding: utf-8 --
 
-version = 1.2
+version = 1.3
 msfs_mode = 1
 icao = "egbb"
 
@@ -366,7 +366,7 @@ SPRSN = RemoteStandNames("South Pier (1-16, 20-25)", "", 1)
 NPSN = TerminalNames("North Pier (40-42, 54-60)", "", 2)
 WRSN = RemoteStandNames("Western Remote Stands (70-77, 80-86)", "", 3)
 EAN = StandNames("Elmdon Apron", "", 4)
-
+EAN_GA = StandNames("Elmdon Apron", "GA", 4)
 
 parkings = {
     GATE: {
@@ -454,5 +454,10 @@ parkings = {
             506 : (EAN, customOffset_Stand),
             "601L" : (EAN, customOffset_Stand),
             "601R" : (EAN, customOffset_Stand),
+    },
+    E_PARKING: {
+        None: ( ),
+            1 : (EAN_GA, customOffset_Stand),
+            2 : (EAN_GA, customOffset_Stand),
     },
 }
